@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 macroquad="*"
 cpal={git="https://github.com/RustAudio/cpal.git", features=["pipewire"]}
+vecmath = "1.0.0"
